@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="signed_in_fmt">signedinformat</string>
+</resources>

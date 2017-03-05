@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "109118377922",
+    "project_id": "facebook-3ad3b"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109118377922:android:17b7c2dd638812d1",
+        "android_client_info": {
+          "package_name": "com.example.ravinderreddy.facebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109118377922-t870b78m78dgk279tbirjlpsp6nnngko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ravinderreddy.facebook",
+            "certificate_hash": "a0f1df07be2da22edb835e731d1252762a45f251"
+          }
+        },
+        {
+          "client_id": "109118377922-n1r5cjjoe8klvrgre18k75qeii65fmad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAowGdIfXQtvKdrlAMQ2MswhmRPzMt8T6M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
